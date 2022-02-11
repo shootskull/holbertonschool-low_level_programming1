@@ -1,8 +1,7 @@
 #include <stdio.h>
 /**
-* a
-* aaaaaaaae
-* iaaaaaaaa
+* main - return the n value
+* Return: return 0
 */
 int main(void)
 {
